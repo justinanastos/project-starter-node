@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/build": true,
+    "**/.vscode": true,
+    "**/coverage": true
+  },
+  "editor.rulers": [80],
+  "eslint.options": {
+    "rules": {
+      "arrow-body-style": 0,
+      "no-debugger": 0
+    }
+  },
+  "search.location": "panel",
+  "eslint.autoFixOnSave": true
+}
